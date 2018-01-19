@@ -10,7 +10,7 @@ namespace BW
     public class CustomBackgroundWorker
     {
         /// <summary>
-        /// //////
+        /// /////
         /// </summary>
         private static readonly object objLock = new object();
         public bool CancellationPending { get; private set; }
